@@ -1,0 +1,12 @@
+{
+  "app_name": "Multilingual app",
+  "start_button": "Start translate",
+  "stop_button": "Stop translate",
+  "settings_button": "Settings",
+  "source_lan": "Source language",
+  "target_lan": "Target Language",
+  "overlay_label": "Press the button for starting",
+  "close": "Close",
+  "error": "Error",
+  "translating": "Translating..."
+}
